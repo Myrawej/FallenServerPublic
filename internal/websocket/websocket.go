@@ -5,7 +5,7 @@ package main
 Имя файла: websocket.go
 Путь: internal/websocket/websocket.go
 Строк кода: 726
-Последнее изменение: Sun Sep 22 23:37:38 2024
+Последнее изменение: Sun Sep 22 23:39:08 2024
 Размер: 22.17 КБ
 Язык: Go
 */
