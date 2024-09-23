@@ -5,8 +5,8 @@ package main
 Имя файла: user_handler.go
 Путь: internal/userhandler/user_handler.go
 Строк кода: 122
-Последнее изменение: Mon Sep 23 14:24:26 2024
-Размер: 3.13 КБ
+Последнее изменение: Mon Sep 23 14:24:42 2024
+Размер: 3.14 КБ
 Язык: Go
 */
 
