@@ -5,7 +5,7 @@ package main
 Имя файла: afkearnings.go
 Путь: internal/afkearnings/afkearnings.go
 Строк кода: 291
-Последнее изменение: Mon Sep 23 05:00:34 2024
+Последнее изменение: Mon Sep 23 05:52:59 2024
 Размер: 8.68 КБ
 Язык: Go
 */
