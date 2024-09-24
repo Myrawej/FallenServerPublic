@@ -5,8 +5,8 @@ package main
 Имя файла: user_commands.go
 Путь: internal/commands/user_commands.go
 Строк кода: 122
-Последнее изменение: Tue Sep 24 06:32:24 2024
-Размер: 3.15 КБ
+Последнее изменение: Tue Sep 24 06:33:29 2024
+Размер: 3.13 КБ
 Язык: Go
 */
 
