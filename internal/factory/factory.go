@@ -5,7 +5,7 @@ package main
 Имя файла: factory.go
 Путь: internal/factory/factory.go
 Строк кода: 75
-Последнее изменение: Tue Sep 24 15:09:18 2024
+Последнее изменение: Tue Sep 24 15:11:42 2024
 Размер: 1.70 КБ
 Язык: Go
 */
