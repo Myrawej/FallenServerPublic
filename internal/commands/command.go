@@ -5,7 +5,7 @@ package main
 Имя файла: command.go
 Путь: internal/commands/command.go
 Строк кода: 261
-Последнее изменение: Wed Sep 25 12:52:13 2024
+Последнее изменение: Wed Sep 25 14:00:50 2024
 Размер: 7.67 КБ
 Язык: Go
 */
