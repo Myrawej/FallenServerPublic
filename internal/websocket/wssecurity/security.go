@@ -5,8 +5,8 @@ package main
 Имя файла: security.go
 Путь: internal/websocket/wssecurity/security.go
 Строк кода: 280
-Последнее изменение: Tue Sep 24 06:19:47 2024
-Размер: 8.66 КБ
+Последнее изменение: Fri Oct  4 06:56:40 2024
+Размер: 8.74 КБ
 Язык: Go
 */
 
